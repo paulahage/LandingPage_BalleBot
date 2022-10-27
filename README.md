@@ -29,4 +29,6 @@ To challenge myself, I decided to implement a responsive design to practice the 
 
 
 💻 Result:
+![finalGif](https://user-images.githubusercontent.com/84124999/198300790-89120e05-0506-4380-85c5-a25cdc9eae0c.gif)
+
 
